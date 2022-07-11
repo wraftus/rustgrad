@@ -1,0 +1,8 @@
+[package]
+name = "rustgrad"
+version = "0.1.0"
+authors = ["Walter Raftus", "Miles di Prata"]
+
+[[bin]]
+name = "test"
+path = "src/test.rs"
